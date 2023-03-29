@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "stylelint.vscode-stylelint",
+    "dbaeumer.vscode-eslint",
+    "christian-kohler.npm-intellisense",
+    "esbenp.prettier-vscode",
+    "jpoissonnier.vscode-styled-components"
+  ]
+}
